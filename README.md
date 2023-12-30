@@ -21,7 +21,7 @@ This is a first draft that lacks a proper UI. I am working on a web app version 
 1. Clone the repo
 2. Create a virtual environment within the cloned repo. I used virtualenv.
 3. Install the requirements
-4. Create a .env file for your OpenAI key. The .env file should have the following: OPENAI_API_KEY="<PASTE YOUR KEY HERE>"
+4. Create a .env file for your OpenAI key. The .env file should have the following: OPENAI_API_KEY="PASTE YOUR KEY HERE"
 5. Run the drawing-board.py script. This should load the drawing canvas. Create your drawing, and then close the canvas.
 6. Your drawing will be saved within the same directory ('drawing.png')
 7. Run the image-to-text.py script. This should take a couple minutes. Your interpretation will be generated within the terminal. 
