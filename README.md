@@ -10,10 +10,10 @@ When the drawing is complete, the art critic then provides a pretentious and ela
 
 <img width="700" alt="Screenshot 2023-12-30 at 1 15 02 PM" src="https://github.com/ju-mc/art-critic/assets/68313879/02bcd0a0-c873-41c7-8dec-3756c4f732f9">
 
-### Architecture
+## Architecture
 
 
-### How to set up and use
+## How to set up and use
 
 This is a first draft that lacks a proper UI. I am working on a web app version and I will post an update here when that is completed. 
 #### Setup:
