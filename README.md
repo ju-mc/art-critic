@@ -15,7 +15,7 @@ When the drawing is complete, the art critic then provides an elaborate interpre
 
 The drawing component is built using pygame. Once the drawing is complete, it is passed to an image-to-text model. I used the [Salesforce blip-image-captioning-base](https://huggingface.co/Salesforce/blip-image-captioning-base), which was designed for image caption generation. The caption generated from this model (it is usually short and lacking descriptive details) is then passed to GPT-4 with a prompt requesting a rephrasing of the generated caption based on certain parameters, and the result of that prompt is the output. 
 
-## Setup:
+## Setup
 1. Clone the repo
 2. Create a virtual environment within the cloned repo. I used virtualenv.
 3. Install the requirements
